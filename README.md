@@ -138,5 +138,5 @@ Learning JavaScript • Power BI • AWS • Google Cloud
   <img src="https://media1.tenor.com/m/o3jL-ikQhaQAAAAC/shera-spop.gif" width="400">
 
 
-Thanks for visiting my profile 💖
+**Thanks for visiting my profile 💖**
 </div>
