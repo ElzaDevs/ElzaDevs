@@ -1,6 +1,22 @@
 # 👋 Hello, I'm Elza Vitória
-Software Engineering
-Currently pursuing a Bachelor's Degree in Software Engineering.
+<div class="Education">
+## 🎓 Education
+<p align="left">
+  <img src="https://uniube.br/img/landing/logo_azul.svg" width="60" align="center">
+</p>
+**UNIUBE**
+Bachelor's Degree in Software Engineering.
+Expected Graduation: 2029.
+</div>
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 ### Data Analytics • Cloud Computing • Front-End Development
