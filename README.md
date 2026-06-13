@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Elza Vitória
-
+Software Engineering
+Currently pursuing a Bachelor's Degree in Software Engineering.
 <div align="center">
 
 ### Data Analytics • Cloud Computing • Front-End Development
@@ -114,7 +115,7 @@ https://github.com/ElzaDevs/San-Valentine--Day-s
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=ElzaDevs&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=ElzaDevs&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 ---
 
