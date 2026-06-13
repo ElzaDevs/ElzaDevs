@@ -126,4 +126,10 @@ https://github.com/ElzaDevs
 
 ⭐ Always learning, building and improving.
 
+🌸 Current Adventure:
+Learning JavaScript • Power BI • AWS • Google Cloud
+
+[GIF Hello Kitty pequeno]
+
+Thanks for visiting my profile 💖
 </div>
