@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Elza Vitória
-**UNIUBE- Universidade de Uberaba(MG)**
-Bachelor's Degree in Software Engineering.
+**UNIUBE- Universidade de Uberaba(MG)** <br>
+Bachelor's Degree in Software Engineering. <br>
 Expected Graduation: 2029.
 <div align="center">
 
