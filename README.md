@@ -79,7 +79,11 @@ I enjoy creating digital solutions, learning new technologies and transforming i
 * Google Cloud Fundamentals
 * Front-End Best Practices
 * Git & GitHub Workflows
+## 🎓 Certifications
 
+✅ Google AI Essentials
+
+Learning practical applications of Artificial Intelligence, prompt engineering and AI-powered productivity tools.
 ---
 
 ## 📌 Featured Project
@@ -129,7 +133,8 @@ https://github.com/ElzaDevs
 🌸 Current Adventure:
 Learning JavaScript • Power BI • AWS • Google Cloud
 
-[GIF Hello Kitty pequeno]
+  <img src="https://media1.tenor.com/m/o3jL-ikQhaQAAAAC/shera-spop.gif" width="400">
+
 
 Thanks for visiting my profile 💖
 </div>
