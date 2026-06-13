@@ -94,11 +94,11 @@ Learning practical applications of Artificial Intelligence, prompt engineering a
 
 A romantic Y2K-inspired web experience built with HTML, CSS and JavaScript.
 
-🔗 Live Demo
+🔗 Pratices#01
 
-https://elzadevs.github.io/San-Valentine--Day-s/
+https://github.com/ElzaDevs/Site-Style-2000s#httpselzadevsgithubiosite-style-2000s
 
-🔗 Repository
+🔗 Pratices#04
 
 https://github.com/ElzaDevs/San-Valentine--Day-s
 
