@@ -1,22 +1,7 @@
 # 👋 Hello, I'm Elza Vitória
-<div class="Education">
-## 🎓 Education
-<p align="left">
-  <img src="https://uniube.br/img/landing/logo_azul.svg" width="60" align="center">
-</p>
-**UNIUBE**
+**UNIUBE- Universidade de Uberaba(MG)**
 Bachelor's Degree in Software Engineering.
 Expected Graduation: 2029.
-</div>
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 ### Data Analytics • Cloud Computing • Front-End Development
