@@ -85,8 +85,8 @@ I enjoy creating digital solutions, learning new technologies and transforming i
 
 ✅ Google AI Essentials
 Implement Load Balancing on Compute Engine
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7133f0c3-2f4d-4e8c-9b4a-a02cb7f3dad8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<br>
+<div data-iframe-width="150" ...></div>
+<script src="//cdn.credly.com/assets/utilities/embed.js"></script>
 referênce: https://www.credly.com/users/elza-vitoria-mendes-silva-de-aquino
 ---
 
