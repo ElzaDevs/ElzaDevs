@@ -88,7 +88,6 @@ Implement Load Balancing on Compute Engine
 <a href="https://www.credly.com/users/elza-vitoria-mendes-silva-de-aquino">
   <img src="certifications/google-ai-essentials.png" width="150">
 </a>
-referênce: https://www.credly.com/users/elza-vitoria-mendes-silva-de-aquino
 ---
 
 ## 📌 Featured Project
