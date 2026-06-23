@@ -84,26 +84,32 @@ I enjoy creating digital solutions, learning new technologies and transforming i
 ## 🎓 Certifications
 
 ✅ Google AI Essentials
-
-Learning practical applications of Artificial Intelligence, prompt engineering and AI-powered productivity tools.
+Implement Load Balancing on Compute Engine
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7133f0c3-2f4d-4e8c-9b4a-a02cb7f3dad8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<br>
+referênce: https://www.credly.com/users/elza-vitoria-mendes-silva-de-aquino
 ---
 
 ## 📌 Featured Project
+<br>
 🔗 Pratices#01
 ###  🧮 Algorithmic Calculation System Implementation (Visualg 3.0)
 The Algorithmic System was designed using several simple sequence and flow diagrams, created by me, with the help of Professor Paulo Limirio's framework. The goal was to practically build a program in Portugol Language using Visualg 3.0, capable of performing basic math operations taught in elementary school. So, the system was structured with three types of simple structures, allowing the user to choose different types of calculations in an organized and efficient way. The system was organized through a main grouped menu, similar to an XML Invoice (NF-e), where information is separated into specific blocks to make it easier to read and identify the elements.
 
 https://github.com/ElzaDevs/calculadora-visualg
+<br>
 ---
 🔗 Pratices#02- Nostalgic( first work in university)
-
+<br>
 
 https://github.com/ElzaDevs/Site-Style-2000s#httpselzadevsgithubiosite-style-2000s
+<br>
 ---
 🔗 Pratices#03- The Valentine Day's
-
+<br>
 
 https://github.com/ElzaDevs/San-Valentine--Day-s
+<br>
 ---
 
 ## 🎯 Career Goals
