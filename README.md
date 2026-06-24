@@ -100,17 +100,19 @@ https://github.com/ElzaDevs/calculadora-visualg
 <br>
 <br>
 The Algorithmic System was designed using several simple sequence and flow diagrams, created by me, with the help of Professor Paulo Limirio's framework. The goal was to practically build a program in Portugol Language using Visualg 3.0, capable of performing basic math operations taught in elementary school. So, the system was structured with three types of simple structures, allowing the user to choose different types of calculations in an organized and efficient way. The system was organized through a main grouped menu, similar to an XML Invoice (NF-e), where information is separated into specific blocks to make it easier to read and identify the elements.
+<br>
 ---
 <br>
-## 🔗 Pratices#02- Nostalgic( first work in university)
+ <br>
+ ## 🔗 Pratices#02- Nostalgic( first work in university)
 <br>
 <br>
 https://github.com/ElzaDevs/Site-Style-2000s#httpselzadevsgithubiosite-style-2000s
 Academic project developed to explore the basics of web development, using HTML and CSS to recreate visual elements inspired by the aesthetics of the 2000s internet.
 <br>
 ---
-## 🔗 Pratices#03- 
- The Valentine Day's
+<br>
+##  🔗 Pratices#03- The Valentine Day's
 <br>
 <br>
 https://github.com/ElzaDevs/San-Valentine--Day-s
@@ -118,7 +120,7 @@ Front-end project developed to practice structuring web interfaces, responsive s
 The project combines themed visual elements with navigation and content presentation features, helping to build skills in HTML, CSS, and JavaScript.
 <br>
 ---
-
+<br>
 ## 🎯 Career Goals
 
 * Data Analyst
