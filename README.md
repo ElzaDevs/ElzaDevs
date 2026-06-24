@@ -144,7 +144,7 @@ The project combines themed visual elements with navigation and content presenta
 - 🤖 Google AI Essentials Certified
 - 🚀 Expanding Portfolio Through Practical Projects <br>
 
-   ![Snake](https://github.com/ElzaDevs/ElzaDevs/blob/output/github-contribution-grid-snake.svg)
+ ![Snake](https://raw.githubusercontent.com/ElzaDevs/ElzaDevs/output/github-contribution-grid-snake.svg)
 
 ---
 
