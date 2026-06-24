@@ -142,13 +142,9 @@ The project combines themed visual elements with navigation and content presenta
 - 📚 Continuous Learning in Algorithms and Software Development
 - 💻 First Academic Projects Published on GitHub
 - 🤖 Google AI Essentials Certified
-- 🚀 Expanding Portfolio Through Practical Projects
+- 🚀 Expanding Portfolio Through Practical Projects <br>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ElzaDevs&theme=tokyonight&no-frame=true&margin-w=10" />
-
-</div>
+   ![Snake](https://github.com/ElzaDevs/ElzaDevs/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
