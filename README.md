@@ -95,7 +95,7 @@ Implement Load Balancing on Compute Engine
 ## 📌 Featured Project
 <br>
 🔗 Pratices#01 <br>
---  🧮 Algorithmic Calculation System Implementation (Visualg 3.0)
+--  🧮 Algorithmic Calculation System Implementation (Visualg 3.0) <br>
 The Algorithmic System was designed using several simple sequence and flow diagrams, created by me, with the help of Professor Paulo Limirio's framework. The goal was to practically build a program in Portugol Language using Visualg 3.0, capable of performing basic math operations taught in elementary school. So, the system was structured with three types of simple structures, allowing the user to choose different types of calculations in an organized and efficient way. The system was organized through a main grouped menu, similar to an XML Invoice (NF-e), where information is separated into specific blocks to make it easier to read and identify the elements.
 
 https://github.com/ElzaDevs/calculadora-visualg
