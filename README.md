@@ -138,7 +138,17 @@ The project combines themed visual elements with navigation and content presenta
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=ElzaDevs&theme=tokyonight&no-frame=true&margin-w=10"/>
+- 🎓 Software Engineering Student at UNIUBE
+- 📚 Continuous Learning in Algorithms and Software Development
+- 💻 First Academic Projects Published on GitHub
+- 🤖 Google AI Essentials Certified
+- 🚀 Expanding Portfolio Through Practical Projects
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ElzaDevs&theme=tokyonight&no-frame=true&margin-w=10" />
+
+</div>
 
 ---
 
