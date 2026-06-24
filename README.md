@@ -94,7 +94,7 @@ Implement Load Balancing on Compute Engine
 
 ## 📌 Featured Project
 <br>
-## 🔗 Pratices#01   -- 🧮 Algorithmic Calculation System Implementation (Visualg 3.0) -- <br>
+<h2> 🔗 Pratices#01   -- 🧮 Algorithmic Calculation System Implementation (Visualg 3.0) -- <br></h2>
 <br>
 https://github.com/ElzaDevs/calculadora-visualg
 <br>
@@ -104,7 +104,7 @@ The Algorithmic System was designed using several simple sequence and flow diagr
 ---
 <br>
  <br>
- ## 🔗 Pratices#02- Nostalgic( first work in university)
+<h2> 🔗 Pratices#02- Nostalgic( first work in university) </h2>
 <br>
 <br>
 https://github.com/ElzaDevs/Site-Style-2000s#httpselzadevsgithubiosite-style-2000s
@@ -112,7 +112,7 @@ Academic project developed to explore the basics of web development, using HTML 
 <br>
 ---
 <br>
-##  🔗 Pratices#03- The Valentine Day's
+<h2> 🔗 Pratices#03- The Valentine Day's </h2>
 <br>
 <br>
 https://github.com/ElzaDevs/San-Valentine--Day-s
