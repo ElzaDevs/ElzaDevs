@@ -143,8 +143,7 @@ The project combines themed visual elements with navigation and content presenta
 - 💻 First Academic Projects Published on GitHub
 - 🤖 Google AI Essentials Certified
 - 🚀 Expanding Portfolio Through Practical Projects <br>
-
- ![Snake](https://raw.githubusercontent.com/ElzaDevs/ElzaDevs/output/github-contribution-grid-snake.svg)
+- 💬 Stuying English (B1-B2)
 
 ---
 
