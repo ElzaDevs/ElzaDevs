@@ -8,8 +8,7 @@ Expected Graduation: 2029.
 
 Building practical projects while developing skills in Data, Cloud and Software Development.
 
-<br>
-<br>
+
 [![Elza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElzaDevs&theme=tokyo-night&hide_border=true)](https://github.com/ElzaDevs)
 ---
 
