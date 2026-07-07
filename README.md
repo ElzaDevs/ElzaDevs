@@ -8,15 +8,15 @@ Expected Graduation: 2029.
 
 Building practical projects while developing skills in Data, Cloud and Software Development.
 
-<br>
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ElzaDevs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElzaDevs&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElzaDevs&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ElzaDevs&theme=tokyonight&hide_border=true"/>
 
 </div>
 
