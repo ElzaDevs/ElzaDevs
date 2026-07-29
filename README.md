@@ -154,11 +154,10 @@ This project strengthened my understanding of how technology can contribute to s
 
 ## -- 🏦 System Banking --
 🔗 Repository:  
-https://github.com/ElzaDevs/challenge-lacrei-saude
-
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 <br>
 
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
 
 Java project focused on practicing Object-Oriented Programming concepts and software development fundamentals.
 This project explores the creation of a simple banking system structure, applying programming logic and organization principles.
@@ -256,6 +255,7 @@ The project combines themed design, navigation and visual components to improve 
 ![Inclusion](https://img.shields.io/badge/🌈%20Inclusion-Diversity%20%26%20Technology-purple?style=for-the-badge)
 ![Neurodiversity](https://img.shields.io/badge/🧩%20Neurodiversity-Unique%20Perspectives-blue?style=for-the-badge)
 ![Accessibility](https://img.shields.io/badge/♿%20Accessibility-Inclusive%20Solutions-green?style=for-the-badge)
+
 ⭐ Always learning, building and improving.
 
 <br><br>
