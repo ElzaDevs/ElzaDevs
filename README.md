@@ -240,7 +240,7 @@ The project combines themed design, navigation and visual components to improve 
 🎓 Software Engineering Student at UNIUBE  
 💻 Building and publishing software projects on GitHub  
 🟢 Volunteer contributor in a digital health accessibility project  
-🤖 Google AI Essentials Certified  
+ Google AI Essentials Certified  
 ☕ Developing backend skills with Java and modern technologies  
 📚 Lifelong learner passionate about books, technology and innovation  
 🌎 Improving English for global opportunities  
