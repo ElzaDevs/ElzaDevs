@@ -55,7 +55,7 @@ My journey started with web development, where I discovered my passion for trans
 
 <br>
 
-I believe curiosity, creativity and continuous learning are essential skills in technology.
+**I believe curiosity, creativity and continuous learning are essential skills in technology.**
 
 <br>
 <br>
