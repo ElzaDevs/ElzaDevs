@@ -133,7 +133,7 @@ My journey started with web development, where I discovered my passion for trans
 <br>
 
 🔗 Repository:  
-https://github.com/ElzaDevs/challenge-lacrei-saude
+[https://github.com/ElzaDevs/challenge-lacrei-saude](https://github.com/ElzaDevs/lacrei-saude-frontend)
 
 <br>
 
