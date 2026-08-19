@@ -260,8 +260,10 @@ The project combines themed design, navigation and visual components to improve 
 ⭐ Always learning, building and improving.
 
 <br><br>
+<p align="center">
+  <img src="./certifications/me.png" alt="Banner Python" width="600"/>
+</p>
 
-<img src="https://media1.tenor.com/m/o3jL-ikQhaQAAAAC/shera-spop.gif" width="350">
 <br><br>
 
 **Thanks for visiting my profile 💖**
