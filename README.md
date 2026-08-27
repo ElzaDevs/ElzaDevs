@@ -13,6 +13,8 @@ Building practical projects while developing skills in backend development, APIs
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElzaDevs/ElzaDevs/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElzaDevs/ElzaDevs/output/github-contribution-grid-snake.svg">
 </picture>
+
+
 ---
 ## 🚀 About Me
 
