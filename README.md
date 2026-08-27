@@ -8,8 +8,11 @@ Expected Graduation: 2029.
 
 Building practical projects while developing skills in backend development, APIs, cloud technologies and software solutions.
 
-[![Elza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElzaDevs&theme=tokyo-night&hide_border=true)](https://github.com/ElzaDevs)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElzaDevs/ElzaDevs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElzaDevs/ElzaDevs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElzaDevs/ElzaDevs/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 ## 🚀 About Me
 
