@@ -97,6 +97,7 @@ My journey started with web development, where I discovered my passion for trans
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
 
 <h4> -- ☁️ Cloud & Development Tools -- </h4>
 
