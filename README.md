@@ -8,11 +8,14 @@ Expected Graduation: 2029.
 
 Building practical projects while developing skills in backend development, APIs, cloud technologies and software solutions.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElzaDevs/ElzaDevs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElzaDevs/ElzaDevs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElzaDevs/ElzaDevs/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElzaDevs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=b3aacb&icon_color=8b5cf6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElzaDevs&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=b3aacb" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElzaDevs&hide_border=true&background=0d1117&ring=8b5cf6&fire=c084fc&currStreakLabel=c084fc&sideLabels=b3aacb&sideNums=e9d5ff&dates=6b7280" />
+
+</div>
 
 
 ---
