@@ -1,171 +1,159 @@
-# 👋 Hello, I'm Elza Vitória
-**UNIUBE- Universidade de Uberaba(MG)** <br>
-Bachelor's Degree in Software Engineering. <br>
-Expected Graduation: 2029.
-<div align="center">
-
-  ### Java Backend • Spring Boot • Software Engineering
-
-Building practical projects while developing skills in backend development, APIs, cloud technologies and software solutions.
+# 👋 Hello, I'm Elza Vitória 
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:09090f,45:321044,75:9d287e,100:ff4fa3&text=Elza%20Vit%C3%B3ria&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20PYTHON%20%7C%20JAVA%20%7C%20AI&descSize=13&descColor=ffb8e1&descAlignY=65" width="100%" />
 
+**UNIUBE — Universidade de Uberaba (MG), Brazil**  
+**Bachelor's Degree in Software Engineering** <br>
+   **Expected Graduation: 2029** 
 
+<br><br>
+*Building thoughtful solutions, one commit at a time.*
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElzaDevs&hide_border=true&background=0d1117&ring=8b5cf6&fire=c084fc&currStreakLabel=c084fc&sideLabels=b3aacb&sideNums=e9d5ff&dates=6b7280" />
+[![LinkedIn](https://img.shields.io/badge/ELZA%20VIT%C3%93RIA%20%E2%86%97-LET'S%20BUILD%20CONNECTIONS-ff4fa3?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/elzaaquino/)
+[![GitHub](https://img.shields.io/badge/ELZADEVS%20%E2%96%B8-SYSTEMS%2C%20CODE%20%26%20IDEAS-c084fc?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ElzaDevs)
 
 </div>
 
-
 ---
-## 🚀 About Me
 
-I'm a Software Engineering student passionate about technology, creativity and the power of building solutions that can positively impact people's lives.
+##  —  ᓚᘏᗢ About Me   —
 
-I believe software is not only about writing code — it's about understanding people, solving meaningful problems and creating experiences that make everyday life better.
+```text
+$ whoami
 
-My journey started with web development, where I discovered my passion for transforming ideas into digital experiences. Currently, I am expanding my knowledge into backend development, software architecture and business-oriented solutions, always looking for new challenges and opportunities to grow.
+name       : Elza Vitória
+role       : Software Engineering Student @ UNIUBE
+graduation : 2029
+building   : APIs and request-triage systems
+stack      : Python / Java / SQL / FastAPI
+exploring  : Spring Boot / Generative AI
+approach   : Understand the problem → design the logic → build the solution
+```
 
 
-<h2> 🌱 Currently exploring: </h2> 
-
-<br>
-<br>
-<br>
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=api&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=icloud&logoColor=white)
-
-<br>
-<br>
+I'm interested in understanding how systems work, how data flows, and how programming logic becomes a useful software solution.
+My approach starts with understanding the problem, analyzing requirements and building a practical solution.
 
 ---
 
-## ✨ Beyond Code
 
-<br>
-<br>
+## ᓚᘏᗢ — Technologies & Tools
 
-![Culture](https://img.shields.io/badge/🌎%20Culture-Learning%20from%20the%20world-blue?style=for-the-badge)
-![Music](https://img.shields.io/badge/🎵%20Music-Art%20%26%20Inspiration-purple?style=for-the-badge)
-![Design](https://img.shields.io/badge/🌸%20Design-Creativity-pink?style=for-the-badge)
-![Reading](https://img.shields.io/badge/📚%20Reading-Fantasy%20%7C%20Knowledge%20%7C%20Growth-orange?style=for-the-badge)
-![Learning](https://img.shields.io/badge/🧠%20Learning-Technology%20%26%20Entrepreneurship-yellow?style=for-the-badge)
-![Collaboration](https://img.shields.io/badge/🤝%20Collaboration-Sharing%20Ideas-green?style=for-the-badge)
+<table>
+<tr>
+<td width="33%" valign="top">
 
+**Languages**
 
-<br>
+![Python](https://img.shields.io/badge/Python-D94F85?style=flat-square&logo=python&logoColor=white)
 
-**I believe curiosity, creativity and continuous learning are essential skills in technology.**
+![Java](https://img.shields.io/badge/Java-A766A8?style=flat-square&logo=openjdk&logoColor=white)
 
-<br>
-<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-8764A8?style=flat-square&logo=typescript&logoColor=white)
 
----
-<br>
+![SQL](https://img.shields.io/badge/SQL-E88FAB?style=flat-square&logo=postgresql&logoColor=21131F)
 
-# 🛠️ Technologies & Tools
+</td>
+<td width="34%" valign="top">
 
-<br>
+**Backend & Frontend**
 
-<h4> --💻 Front-End Development -- </h4>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-A766A8?style=flat-square&logo=springboot&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-D94F85?style=flat-square&logo=fastapi&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-8764A8?style=flat-square&logo=react&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-E88FAB?style=flat-square&logoColor=21131F)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A766A8?style=flat-square&logo=postgresql&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+</td>
+<td width="33%" valign="top">
 
+**Tools & Design**
 
-<h4> -- ☕ Backend & Data -- </h4>
+![Git](https://img.shields.io/badge/Git-D94F85?style=flat-square&logo=git&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8764A8?style=flat-square&logo=github&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-A766A8?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=api&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-E88FAB?style=flat-square&logo=eclipseide&logoColor=21131F)
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-D94F85?style=flat-square&logo=figma&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-8764A8?style=flat-square&logo=canva&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
 
-<h4> -- ☁️ Cloud & Development Tools -- </h4>
+**Artificial Intelligence**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-D94F85?style=flat-square&logoColor=white)
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Tools-A766A8?style=flat-square&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python for AI](https://img.shields.io/badge/Python_for_AI-E88FAB?style=flat-square&logo=python&logoColor=21131F)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎓 Certifications
 
-**Google AI Essentials**
+## `03` — Featured Projects
 
-*Certificate focused on Artificial Intelligence fundamentals, AI tools and practical applications.*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="certifications/google-ai-essentials.png" width="300" height="200">
+### `>_` Fluxo Inteligente
 
-<br>
+API for organizing internal requests, classifying priorities and routing demands to responsible teams.
 
-<a href="https://www.credly.com/users/elza-vitoria-mendes-silva-de-aquino"> My Credly
-</a>
+![Python](https://img.shields.io/badge/Python-ff2eaa?style=flat-square&logo=python&logoColor=111111)
+![FastAPI](https://img.shields.io/badge/FastAPI-c026ff?style=flat-square&logo=fastapi&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff4fd8?style=flat-square&logo=postgresql&logoColor=111111)
 
-<br>
+</td>
+<td width="50%" valign="top">
+
+### `>_` The Mentalist — CBI Selection
+
+Python voting application featuring input validation, conditional logic, vote counting and result calculation.
+
+![Python](https://img.shields.io/badge/Python-ff2eaa?style=flat-square&logo=python&logoColor=111111)
+![Programming Logic](https://img.shields.io/badge/Programming_Logic-c026ff?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 My Journey So Far
 
-🎓 Software Engineering Student at UNIUBE  
-💻 Building and publishing software projects on GitHub  
-🟢 Volunteer contributor in a digital health accessibility project  
- Google AI Essentials Certified  
-☕ Developing backend skills with Java and modern technologies  
-📚 Lifelong learner passionate about books, technology and innovation  
-🌎 Improving English for global opportunities  
-
-<br>
+## —  ᓚᘏᗢ Connect with me -
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/elzaaquino/">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-ff79c6?style=for-the-badge&logo=linkedin&logoColor=111111" alt="Connect on LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ElzaDevs">
+  <img src="https://img.shields.io/badge/GitHub-EXPLORE-f0abfc?style=for-the-badge&logo=github&logoColor=111111" alt="Explore GitHub" />
+</a>
 
+</div>
 
-<br>
+`curious` · `focused` · `in progress`
 
-![Inclusion](https://img.shields.io/badge/🌈%20Inclusion-Diversity%20%26%20Technology-purple?style=for-the-badge)
-![Neurodiversity](https://img.shields.io/badge/🧩%20Neurodiversity-Unique%20Perspectives-blue?style=for-the-badge)
-![Accessibility](https://img.shields.io/badge/♿%20Accessibility-Inclusive%20Solutions-green?style=for-the-badge)
-
-⭐ Always learning, building and improving.
-
-<br><br>
-<p align="center">
-  <img src="./certifications/me.png" alt="Banner Python" width="600"/>
-</p>
-
-<br><br>
-
-**Thanks for visiting my profile 💖**
+<sub>One step at a time. One commit at a time.</sub>
 
 </div>
