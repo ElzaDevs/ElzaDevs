@@ -106,14 +106,13 @@ My approach starts with understanding the problem, analyzing requirements and bu
 
 ---
 
-
-## `03` — Featured Projects
+## ᓚᘏᗢ — Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `>_` Fluxo Inteligente
+### `>_` [Fluxo Inteligente](https://github.com/ElzaDevs/fluxo_inteligente)
 
 API for organizing internal requests, classifying priorities and routing demands to responsible teams.
 
@@ -124,7 +123,7 @@ API for organizing internal requests, classifying priorities and routing demands
 </td>
 <td width="50%" valign="top">
 
-### `>_` The Mentalist — CBI Selection
+### `>_` [The Mentalist — CBI Selection](https://github.com/ElzaDevs/The-Mentalist-CBI-Selection)
 
 Python voting application featuring input validation, conditional logic, vote counting and result calculation.
 
@@ -133,10 +132,22 @@ Python voting application featuring input validation, conditional logic, vote co
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### `>_` [LeetCode Resolutions](https://github.com/ElzaDevs/LeetCode-Resolutions)
+
+LeetCode solutions documenting my progress in algorithms, data structures and problem-solving, with a focus on clear and efficient code.
+
+![LeetCode](https://img.shields.io/badge/LeetCode-ff2eaa?style=flat-square&logo=leetcode&logoColor=111111)
+![Algorithms](https://img.shields.io/badge/Algorithms-c026ff?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data_Structures-ff4fd8?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 ---
-
 
 ## —  ᓚᘏᗢ Connect with me -
 
