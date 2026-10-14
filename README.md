@@ -145,6 +145,19 @@ LeetCode solutions documenting my progress in algorithms, data structures and pr
 
 </td>
 </tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### `>_` [ClinicaMsService)
+This project follows the front-end stage of the playlist and includes: navigation menu and logo, featured carousel, services section, about us, specialties, doctors, testimonials, blog, footer, and a responsive layout.
+
+![Medical Clinic](https://img.shields.io/badge/Medical_Clinic-ffuare&logo=hospital&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Healthcare-c026ff?style=flateartbeat&logoColor=white)
+
+</td>
+</tr>
+
 </table>
 
 ---
