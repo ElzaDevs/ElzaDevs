@@ -176,8 +176,8 @@ This project follows the front-end stage of the playlist and includes: navigatio
 
 </div>
 
-`curious` · `focused` · `in progress`
+  `curious` · `focused` · `in progress`
 
-<sub>One step at a time. One commit at a time.</sub>
+  <sub>One step at a time. One commit at a time.</sub>
 
 </div>
